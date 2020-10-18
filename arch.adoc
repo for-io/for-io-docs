@@ -1,0 +1,4 @@
+## Architecture
+
+image::img/arch.png[Architecture, width=100%]
+

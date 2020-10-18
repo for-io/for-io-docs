@@ -1,0 +1,15 @@
+# For.io Docs
+
+include::analytics.adoc[]
+
+include::intro.adoc[]
+
+include::howitworks.adoc[]
+
+include::arch.adoc[]
+
+include::layout.adoc[]
+
+include::codegen.adoc[]
+
+include::injection.adoc[]
