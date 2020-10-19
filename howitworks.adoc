@@ -1,0 +1,4 @@
+## How it works?
+
+image::img/codegen.png[Code generation, width=100%]
+
