@@ -1,4 +1,9 @@
-## Introduction
+---
+id: studio-intro
+title: Introduction
+sidebar_label: Introduction
+slug: /studio
+---
 
 For.io Studio is a next-generation IDE that is specialized for rapid development of web backends. It runs (almost fully) in the browser and it can be used to develop Node.js backends on top of Express.js, using MongoDB. Other programming languages, frameworks and databases will be supported in future.
 
