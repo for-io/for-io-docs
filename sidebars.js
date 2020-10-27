@@ -1,6 +1,7 @@
 module.exports = {
-  someSidebar: {
-    Docusaurus: ['doc1', 'doc2', 'doc3'],
-    Features: ['mdx'],
-  },
+  sidebar: {
+    "General": ['general-welcome'],
+    "For.io Studio": ['studio-intro', 'studio-how-it-works', 'studio-code-generation', 'studio-dependency-injection'],
+    "Getting Stated": []
+  }
 };
