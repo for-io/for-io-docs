@@ -1,17 +1,17 @@
 module.exports = {
   title: 'For.io Docs',
   tagline: '',
-  url: '/',
-  baseUrl: '/',
+  url: 'https://for-io.github.io',
+  baseUrl: '/for-io-docs/',
   onBrokenLinks: 'throw',
-  favicon: 'img/favicon.png',
-  organizationName: 'for.io',
+  favicon: '/img/favicon.png',
+  organizationName: 'for-io',
   projectName: 'for-io-docs',
   themeConfig: {
     navbar: {
-      title: 'for.io',
+      title: 'For.io',
       logo: {
-        alt: 'for.io logo',
+        alt: 'For.io logo',
         src: 'img/logo.png',
       },
       items: [
